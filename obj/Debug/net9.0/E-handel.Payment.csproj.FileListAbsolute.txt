@@ -1,0 +1,12 @@
+D:\E-handel\E-handel.Payment\bin\Debug\net9.0\E-handel.Payment.deps.json
+D:\E-handel\E-handel.Payment\bin\Debug\net9.0\E-handel.Payment.dll
+D:\E-handel\E-handel.Payment\bin\Debug\net9.0\E-handel.Payment.pdb
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.AssemblyInfoInputs.cache
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.AssemblyInfo.cs
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.csproj.CoreCompileInputs.cache
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.dll
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\refint\E-handel.Payment.dll
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.pdb
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\ref\E-handel.Payment.dll
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.csproj.AssemblyReference.cache
