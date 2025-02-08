@@ -4,6 +4,7 @@ using System.Text;
 using System.Text.Json;
 using E_handel.Payment.Config;
 using E_handel.Payment.Interfaces;
+using E_handel.Payment.Models;
 using Microsoft.Extensions.Options;
 
 namespace E_handel.Payment.Services
@@ -24,7 +25,7 @@ namespace E_handel.Payment.Services
             );
         }
 
-        public async Task<string> CreateOrderAsync(object order)
+        public async Task<string> CreateOrderAsync(OrderRequest order)
         {
             var klarnaOrder = new
             {
@@ -49,10 +50,14 @@ namespace E_handel.Payment.Services
                 },
                 merchant_urls = new
                 {
-                    terms = "https://localhost:7271/terms",
-                    checkout = "https://localhost:7271/checkout",
-                    confirmation = "https://localhost:7271/confirmation",
-                    push = "https://localhost:7271/push"
+                    terms = "https://special-mildly-bug.ngrok-free.app/terms",
+                    checkout = "https://special-mildly-bug.ngrok-free.app/checkout",
+                    confirmation = "https://special-mildly-bug.ngrok-free.app/confirmation",
+                    push = "https://special-mildly-bug.ngrok-free.app/push"
+                    // terms = "http://localhost:3000/terms",
+                    // checkout = "http://localhost:3000/checkout",
+                    // confirmation = "http://localhost:3000/confirmation",
+                    // push = "http://localhost:3000/push"
                 }
             };
 

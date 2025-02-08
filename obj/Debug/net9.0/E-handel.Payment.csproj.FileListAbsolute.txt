@@ -10,3 +10,4 @@ D:\E-handel\E-handel.Payment\obj\Debug\net9.0\refint\E-handel.Payment.dll
 D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.pdb
 D:\E-handel\E-handel.Payment\obj\Debug\net9.0\ref\E-handel.Payment.dll
 D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.csproj.AssemblyReference.cache
+D:\E-handel\E-handel.Payment\obj\Debug\net9.0\E-handel.Payment.sourcelink.json
